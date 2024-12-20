@@ -1,3 +1,3 @@
 services:
   hello-world:
-    build: https://github.com/littleboycoding/hello-world.git
+    build: https://github.com/littleboycoding/hello-world.git#main
