@@ -1,3 +1,3 @@
 #!/bin/env bash
 
-echo hello, Tanawat
+echo hello, world
