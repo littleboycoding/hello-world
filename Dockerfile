@@ -1,3 +1,5 @@
-FROM hello-world
+FROM ubuntu:22.04
 
-CMD ["/hello"]
+COPY entrypoint.sh /
+
+CMD ["/entrypoint.sh"]
